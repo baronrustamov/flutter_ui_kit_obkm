@@ -57,7 +57,7 @@ class _Page156To160State extends State<Page156To160> {
             ),
             Expanded(
               child: PageView(
-                scrollDirection: Axis.vertical,
+                scrollDirection: Axis.horizontal,
                 controller: _controller,
                 children: pages,
               ),
